@@ -1,12 +1,16 @@
 DIV {border: 1px solid #000;}
 
-#Header {height: 100px; 
+#Header {
+height: 100px; 
 width: 800px; 
 margin-right; auto; 
 margin-left: auto; 
 background:url(images/banner.png) no-repeat; 
-color; red;}
+color; red;
+}
 
-#MainContent {width: 800px; 
+#MainContent {
+width: 800px; 
 margin-right: auto;
-margin-left: auto;}
+margin-left: auto;
+}
