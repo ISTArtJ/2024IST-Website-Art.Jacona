@@ -35,3 +35,18 @@ DIV {border: 1px solid #000;}
 	height: 50px;
 	border: 1px solid red;
 }
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: 0;
+	font-family: sans-serif;
+}
+
+.button-container {
+display: flex;
+width: 100%;
+min-height: 100vh;
+justify-content: center;
+align-items: center;
+}
